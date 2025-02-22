@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @iwarifgha
-- 👀 I’m interested in Flutter internship roles at the moment
-- 🌱 I’m currently learning Flutter for cutting-edge Mobile app development
+- 🌱 A passionate mobile app engineer.
+- - 👀 I love to use Flutter to build apps that solve real life problems.
+
  
  - 📫 How to reach me : LinkindIn @Iwari William
 <!---
